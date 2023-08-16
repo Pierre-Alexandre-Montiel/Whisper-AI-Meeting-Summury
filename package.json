@@ -1,0 +1,31 @@
+{
+  "name": "openai-quickstart-node",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "@chakra-ui/react": "^2.5.1",
+    "@emotion/react": "^11.10.6",
+    "@emotion/styled": "^11.10.6",
+    "formidable": "^2.1.1",
+    "framer-motion": "^10.5.0",
+    "install": "^0.13.0",
+    "langchain": "^0.0.36",
+    "next": "^13.1.1",
+    "npm": "^9.6.0",
+    "openai": "^3.2.1",
+    "python-shell": "^5.0.0",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  },
+  "engines": {
+    "node": ">=14.6.0"
+  },
+  "devDependencies": {
+    "eslint": "^8.36.0"
+  }
+}
