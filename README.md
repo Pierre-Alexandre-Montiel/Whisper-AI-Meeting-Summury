@@ -2,7 +2,7 @@
 
 This is an example Speech to text app who uses Whisper through the openAI API. It uses the [Next.js](https://nextjs.org/) framework with [React](https://reactjs.org/). Follow the instructions below to get set up.
 
-![Whisper_app.png](./public/demo.png)
+![image](https://github.com/Pierre-Alexandre-Montiel/Whisper-AI-Meeting-Summury/assets/43781896/006bfb81-61b6-42ee-a98d-cd5e5c2249a1)
 
 ## Setup
 
